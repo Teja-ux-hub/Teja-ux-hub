@@ -12,7 +12,6 @@
 - 🔭 I’m currently working on [AI-powered developer upskilling platform used by 400+ users.](https://skill-lens-iyfg.vercel.app/)
 - 👯 I’m looking to collaborate on **Full-stack SaaS products, agentic AI workflows, RAG systems, and practical ML tools.**
 - 👨‍💻 All of my projects are available at https://github.com/Teja-ux-hub
-- 💬 Ask me about **React, Next.js, Node.js, Python, AI agents, Advanced RAG**
 - 📫 How to reach me **thangallapallysaiteja@gmail.com**
 - 📄 Resume: https://drive.google.com/file/d/1pgfSbTK_hhWRUfxUqpaee4xslJFvCRhi/view
 
@@ -47,7 +46,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/> &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
 
-<br/><br/>
+<br/>
 
 <!-- Row 2 -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45"/> &nbsp;&nbsp;
