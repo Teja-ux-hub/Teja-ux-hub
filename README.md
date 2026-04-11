@@ -39,7 +39,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> &nbsp;
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/> &nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/> &nbsp;
 
 <br/><br/>
@@ -58,13 +57,11 @@
 
 <br/><br/>
 
-<!-- AI tools (clean added) -->
-<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40" height="40"/> &nbsp;
-<img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="40" height="40"/> &nbsp;
+<!-- AI tools (fixed real-looking logos) -->
+<!-- AI tools (fixed proper logos) -->
 <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40"/> &nbsp;
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain.png" width="40" height="40"/> &nbsp;
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/crewai.png" width="40" height="40"/> &nbsp;
 
 </p>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=teja-ux-hub&show_icons=true&locale=en&layout=compact" />
-</p>
